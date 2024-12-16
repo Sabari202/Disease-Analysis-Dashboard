@@ -36,6 +36,4 @@ Contributions to the India Disease Dashboard project are welcome. If you find an
 ## License
 This project is licensed under the [License Name] license. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-For any inquiries or questions regarding the India Disease Dashboard, please contact [Sudeep Joel Maguluri] at [msudeep.joel@gmail.com].
 
